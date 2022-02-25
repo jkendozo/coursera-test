@@ -63,6 +63,19 @@ h2 {
 	color: white;
 }
 
+.box-one {
+	background-color: blue;
+	color: white;
+}
+
+.box-two {
+	background-color: yellow;
+}
+
+.box-three {
+	background-color: green;
+	color: white;
+}
 
 @media (min-width: 1200px) {
 	.column {
@@ -130,6 +143,7 @@ h2 {
 		margin-right: 14px !important;
 		margin-bottom: 20px;
 		width: 95%;
+		height: 300px !important;
 		top: 0;
 		float: left;
 	}
@@ -139,6 +153,7 @@ h2 {
 		margin-right: 14px !important;
 		margin-bottom: 20px;
 		width: 95%;
+		height: 300px;
 		top: 0;
 		float: left;
 	}
